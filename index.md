@@ -3,6 +3,8 @@ cryptocurrency_arbitrage
 
 A million dollars isn't cool. You know what's cool? 
 
+<img src="arb.png" alt="it's not just about the pleasures of conformity, and the importance of trends, it's also a personal statement about the band itself!">
+
 A BILLION DOLLARS
 
 This is an automated trading program that detects pairwise and triangular arbitrage opportunities on altcoin/bitcoin exchanges. Compared to other bots out there, this one is fairly high-frequency (can trade up to once every 30 seconds or so). 
