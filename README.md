@@ -25,7 +25,7 @@ I have made some money off of it, so yes. But automated order submission and con
 
 Warning: I am not responsible for any losses you incur using this program. You should not run this without looking at the source code for the entire program and running the paper trading/backtesting framework first.
 
-This program comes with two strategies. The first one is pairwise arbitrage, in which the price difference between a currency pair A_B between two different exchanges is exploited via instantaneous arbitrage (to circumvent 2 hour delay in blockchain confirmation).
+This program comes with two strategies. The first one is pairwise arbitrage, in which the price difference between a currency pair A_B between two different exchanges is exploited via instantaneous arbitrage (to circumvent 2 hour delay in blockchain confirmation). The nice thing about trading altcoins with altcoins is that you don't have to muck around (yet) with financial regulation or set up brokerage accounts or deal with exorbitant fiat withdrawal fees from the small number of exchanges who support it (of which the bid-ask spread is low anyway).
 
 Run one of the following scripts:
 
